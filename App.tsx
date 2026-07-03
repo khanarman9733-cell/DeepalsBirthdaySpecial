@@ -6,7 +6,7 @@
 import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "motion/react";
 import { Sparkles, Heart, Volume2, VolumeX, Compass, Anchor, Moon } from "lucide-react";
-import WelcomeExperience from "./components/WelcomeExperience";
+import WelcomeExperience from "./WelcomeExperience";
 import BackgroundElements from "./components/BackgroundElements";
 import LandingHero from "./components/LandingHero";
 import CelestialOrb from "./components/CelestialOrb";
