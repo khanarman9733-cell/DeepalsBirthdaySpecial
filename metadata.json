@@ -1,0 +1,6 @@
+{
+  "name": "Deepal's Birthday Experience",
+  "description": "An interactive, cinematic luxury birthday experience designed with gratitude, respect, and warmth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
