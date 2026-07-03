@@ -21,9 +21,9 @@ import WishRitual from "./components/WishRitual";
 import { audioSynth } from "./components/AudioSynth";
 import { audioManager } from "./components/AudioManager";
 import WelcomeBack from "./components/WelcomeBack";
-import WishJar from "./components/WishJar";
+import WishJar from "./WishJar";
 import FloatingMusicPlayer from "./components/FloatingMusicPlayer";
-import BirthdaySanctuary from "./components/BirthdaySanctuary";
+import BirthdaySanctuary from "./BirthdaySanctuary";
 
 export default function App() {
   const [isOpen, setIsOpen] = useState(false);
